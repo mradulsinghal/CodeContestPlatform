@@ -1,4 +1,4 @@
-# CodeContestPlatform - Code Contest Platform
+# CodeContestPlatform 
 
 A full-stack, scalable coding judge platform built similarly to LeetCode or HackerRank. Users can create accounts, view algorithmic problems, write and submit code in multiple programming languages (C++, Java, Javascript, C) directly in an integrated Monaco editor, and receive instantaneous background grading securely through Judge0.
 
